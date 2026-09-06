@@ -1,0 +1,12 @@
+{
+  "name": "genpark-temporal-knowledge-graph-edge-validity-skill",
+  "version": "1.0.0",
+  "description": "Bitemporal knowledge graph edge manager enforcing valid-time and transaction-time intervals for agent memory.",
+  "category": "Agent Memory Graph & Temporal Knowledge",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-temporal-knowledge-graph-edge-validity-skill",
+  "verified": true,
+  "stars": 8
+}
